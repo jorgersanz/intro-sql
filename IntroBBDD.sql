@@ -1,4 +1,3 @@
-//preguntas my sql//
 select flight_id,flight_no, status from flights where status='On Time';
 select * from bookings where total_amount >=1000000;
 select * from aircrafts_data;
